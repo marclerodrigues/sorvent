@@ -1,4 +1,4 @@
-# Responsable for holding person information
+# Responsible for holding person information
 # How to use:
 #
 # person_attributes = {
