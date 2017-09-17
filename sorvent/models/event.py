@@ -17,7 +17,7 @@ class Event:
     def __init__(self, attributes = {}):
         self.participants = attributes['participants']
         self.tutors = attributes['tutors']
-        self.max_participants = attributes['participants']
+        self.max_participants = attributes['max_participants']
         self.organizers = attributes['organizers']
         self.name = attributes['name']
         self.date = attributes['date']
